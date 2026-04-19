@@ -1,2 +1,14 @@
-# Face-Mask-Detection
-A real-time face mask detection system built using deep learning and computer vision techniques. This project identifies whether a person is wearing a mask or not through live video streams or images, helping enforce safety measures in public spaces.
+## Features
+
+~ Detects faces in real-time using webcam/video feed
+~ Classifies faces as Mask or No Mask
+~ High accuracy using a trained deep learning model
+~ Lightweight and fast inference
+~ Supports both images and live video
+
+## Tech Stack
+
+~ Python
+~ TensorFlow / Keras
+~ OpenCV
+~ NumPy
