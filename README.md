@@ -94,9 +94,13 @@ pip install -r requirements.txt
 
 ---
 
-## Contributing
+## Datasets
+* There's a folder in this repo which contains a file through which the users can find various compatible repositories aligning with this project
+* Add those into a file named "Data" or the users can rename their directory through which they can work on their custom data and suitable algorithms
 
-Contributions are welcome!
-Feel free to fork this repository and submit a pull request.
+## Contributions!   
+
+> Contributions are welcome!
+> Feel free to fork this repository and submit a pull request.
 
 ---
